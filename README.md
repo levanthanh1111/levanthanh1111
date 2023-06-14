@@ -4,7 +4,7 @@
 
 <p align="center">
 	<a align="center"><img src="https://github-profile-trophy.vercel.app/?username=levanthanh1111&theme=tokyonight&row=1&column=6" height="180px" alt="levanthanh1111 :: Profile Stats" /></a>
-	<a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levanthanh1111&langs_count=10&theme=tokyonight&layout=compact" height="180px" alt="levanthanh1111 :: Top Langs" /></a>
+	<a align="center"><img src="https://github-readme-stats.vercel.app/api?username=levanthanh1111&show_icons=true&theme=tokyonight" height="180px" alt="levanthanh1111 :: Top Langs" /></a>
 </p>
 
 <!--
